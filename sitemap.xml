@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://stopmildew.co.za/</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
+  <url><loc>https://stopmildew.co.za/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://stopmildew.co.za/boats</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://stopmildew.co.za/gun-cases</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://stopmildew.co.za/books-and-documents</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://stopmildew.co.za/wardrobes</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://stopmildew.co.za/faq</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://stopmildew.co.za/safety</loc><lastmod>2026-10-18</lastmod></url>
 </urlset>
